@@ -1,7 +1,6 @@
 # Week3-NSP
 
 1. Importing Required Libraries
-
 This section imports essential Python libraries required for data analysis and visualization:
 
 pandas: For handling and analyzing tabular data.
@@ -11,7 +10,6 @@ seaborn: Built on matplotlib, used for advanced and styled visualizations.
 warnings.filterwarnings('ignore'): Suppresses non-critical warning messages for cleaner output.
 
 2. Loading the Dataset
-
 This block loads the country_wise.csv file into a Pandas DataFrame called df. It then prints the column names to inspect the structure of the dataset and understand which columns are available for analysis.
 
 3. Cleaning Column Names
