@@ -1,6 +1,7 @@
-# Week3-NSP
+Week3-NSP
 
 1. Importing Required Libraries
+
 This section imports essential Python libraries required for data analysis and visualization:
 
 pandas: For handling and analyzing tabular data.
